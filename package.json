@@ -1,0 +1,14 @@
+{
+  "name": "abroadviser",
+  "version": "0.0.1",
+  "description": "www.abroadviser.com",
+  "author": "jake.kim <jake.kim@abroadviser.com>",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  },
+  "private": true
+}
