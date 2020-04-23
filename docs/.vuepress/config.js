@@ -1,5 +1,5 @@
 module.exports = {
   title: 'Abroadviser',
   description: 'Abroadviser',
-  dest: 'docs'
+  dest: 'dist'
 }
