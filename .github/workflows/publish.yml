@@ -1,0 +1,21 @@
+name: CI
+on:
+  push:
+    branches:
+      - gh-pages
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      run: |
+        npm install
+        npm run build
+    - name: Push
+      uses: s0/git-publish-subdir-action@master
+      env:
+        REPO: self
+        BRANCH: master
+        FOLDER: dist
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
