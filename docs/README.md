@@ -1,5 +1,3 @@
 # Hello VuePress
 
-test
-
-test2
+switch to docs
