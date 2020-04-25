@@ -1,3 +1,5 @@
+const sidebar = require('./sidebar')
+
 module.exports = {
   title: 'ABROADVISER',
   description: 'easy life in a foreign country',
@@ -7,6 +9,7 @@ module.exports = {
       { text: 'Guide', link: '/guide/' },
       { text: 'Youtube', link: 'https://www.youtube.com/channel/UCt3w8KxLt_FoVp0jogfdX3Q' }
     ],
+    sidebar,
     lastUpdated: 'Last Updated'
   },
   head: [
