@@ -14,6 +14,13 @@ export default {
       const { title } = this.$page
       return { shortname: 'abroadviser', url, identifier: pathname, title }
     }
+  },
+  watch: {
+    'attrs.identifier' (identifier) {
+      if (window && window.DISQUS) {
+        window.DISQUS.reset({ reload: true, config () { this.page.identifier = identifier } })
+      }
+    }
   }
 }
 </script>
