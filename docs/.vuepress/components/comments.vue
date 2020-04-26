@@ -12,6 +12,7 @@ export default {
       const { origin, pathname } = window.location
       const url = origin + pathname
       const { title } = this.$page
+      console.log(pathname)
       return { shortname: 'abroadviser', url, identifier: pathname, title }
     }
   },
