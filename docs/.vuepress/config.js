@@ -17,5 +17,8 @@ module.exports = {
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }]
   ],
   serviceWorker: { updatePopup: true },
-  dest: 'dist'
+  dest: 'dist',
+  extraWatchFiles: [
+    '.vuepress/sidebar.js'
+  ]  
 }

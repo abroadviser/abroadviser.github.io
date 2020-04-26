@@ -15,7 +15,9 @@ module.exports = {
     },
     {
       title: 'Accommodations',
-      children: []
+      children: [
+        '/guide/accommodations/realtors-english'
+      ]
     },
     {
       title: 'Finance',
@@ -27,7 +29,9 @@ module.exports = {
     },
     {
       title: 'Health',
-      children: []
+      children: [
+        '/guide/health/mandatory-nhis'
+      ]
     },
     {
       title: 'Work & Business',

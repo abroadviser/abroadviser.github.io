@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-heroText: Hero Title
+heroText: Your adviser to life in Korea
 tagline: Hero subtitle
 actionText: Get Started
 actionLink: /guide/
