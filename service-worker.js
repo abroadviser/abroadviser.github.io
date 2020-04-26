@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f5ae0539c81328ea1261d8319db9544b"
+    "revision": "61b584c3b9ed93415373a7ea8808d550"
   },
   {
     "url": "assets/css/0.styles.bb473f0d.css",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "df6063435fad742b0bdd254498c76e86"
   },
   {
-    "url": "assets/js/10.886c4fbd.js",
-    "revision": "9cbe4d6cd62bccd0c0b33487d7884953"
+    "url": "assets/js/10.e515af35.js",
+    "revision": "d6e6eb6adf864cf0210ce017286eb9b7"
   },
   {
     "url": "assets/js/11.bb286f10.js",
@@ -82,20 +82,20 @@ self.__precacheManifest = [
     "revision": "42295d891e08b94d0cb9ce5e19b6a70d"
   },
   {
-    "url": "assets/js/16.3be058e4.js",
-    "revision": "3016b0a91495b8496f529971002ddbc1"
+    "url": "assets/js/16.0bc53d95.js",
+    "revision": "54a1538702e0737590673d29495fb0a6"
   },
   {
-    "url": "assets/js/17.aaf04c87.js",
-    "revision": "9f10f9062d7ff241375697ebdb8f9685"
+    "url": "assets/js/17.64b27b08.js",
+    "revision": "ac846d79e5449c9c26d510e32ab1ebc8"
   },
   {
-    "url": "assets/js/18.500167de.js",
-    "revision": "828d32fd5b4ee7579ca130e07115b2ae"
+    "url": "assets/js/18.d7697839.js",
+    "revision": "5a9fb9811d205a3f66e11da4ff94484f"
   },
   {
-    "url": "assets/js/19.3089cd57.js",
-    "revision": "36204c25b2ea9b02952f9ae48ce84650"
+    "url": "assets/js/19.aa488990.js",
+    "revision": "3f85244824201828ecb32ecbab47f5bd"
   },
   {
     "url": "assets/js/2.cfa6a1bf.js",
@@ -198,8 +198,8 @@ self.__precacheManifest = [
     "revision": "085c4ddcd31041245f542351f383cac0"
   },
   {
-    "url": "assets/js/7.a1859c66.js",
-    "revision": "b97388b173015e4babcbfb307b4a4749"
+    "url": "assets/js/7.745508c0.js",
+    "revision": "485257342ac3ef693d8a7756973303e1"
   },
   {
     "url": "assets/js/8.094e9a5a.js",
@@ -210,116 +210,116 @@ self.__precacheManifest = [
     "revision": "44e43873808a2f1b464a57e160652f9b"
   },
   {
-    "url": "assets/js/app.b36e1a71.js",
-    "revision": "a4821d9f143bed1ce89481b54ac8dfe5"
+    "url": "assets/js/app.8c64ffa7.js",
+    "revision": "313962832ed09b3dfb67342e2f41ca97"
   },
   {
     "url": "guide/accommodations/jeonse-loan.html",
-    "revision": "a1b5f692db1daa58b869e3ab9eab0449"
+    "revision": "129717bec5a4af2077642c98b03159c5"
   },
   {
     "url": "guide/accommodations/moving-cleaning-companies.html",
-    "revision": "c3295714d77571860290e93ed942e548"
+    "revision": "4da044ff70e02434fa207a23b726d9fc"
   },
   {
     "url": "guide/accommodations/moving-services-platform.html",
-    "revision": "68caa3019337c7387fd0b67fa35cfd66"
+    "revision": "8d7c9dc7d845a9656245c6643991f334"
   },
   {
     "url": "guide/accommodations/realtors-english.html",
-    "revision": "f8c89fb3573d7c3788376a4d48c07b0d"
+    "revision": "6dc93a7ba1a06b6fc13f0ec79f2ac3f8"
   },
   {
     "url": "guide/accommodations/realtors-fees.html",
-    "revision": "33636a2c78730c3d4345f2bd805b2be3"
+    "revision": "e23d3f3c6eb018b93211fd529ba596a9"
   },
   {
     "url": "guide/accommodations/websites-to-find-house.html",
-    "revision": "518dc195a3c6dce104c84461ca29dbcc"
+    "revision": "16c64e406c5a0a17179402a004fda4f4"
   },
   {
     "url": "guide/administration/group-application-students.html",
-    "revision": "a97d7e5498ea01c064798f9b3d23e89d"
+    "revision": "5dacb130a3b8db441c8b0c178394a943"
   },
   {
     "url": "guide/administration/kiip.html",
-    "revision": "9029dde3746fadfab1d93777eb1171d6"
+    "revision": "8b38bd8cd1ff3c30adb9ddc57ab7468d"
   },
   {
     "url": "guide/administration/lost-arc.html",
-    "revision": "5a11367e14bb48a64375c16faa8f90d1"
+    "revision": "dee42b07b9202c63420de1f5e3f3ab8f"
   },
   {
     "url": "guide/administration/renewal-f-6.html",
-    "revision": "ad497d487f652d70e334d9352645d8fa"
+    "revision": "c121cfaf890e5ae09feaaa6ef7923d53"
   },
   {
     "url": "guide/administration/student-visa-d-2.html",
-    "revision": "bf3f3cc1ef03643974cc3e4f11163126"
+    "revision": "f4f00c2400007cf2ac220cd45ec5b4a6"
   },
   {
     "url": "guide/administration/visa-numbers-links.html",
-    "revision": "424131156091d0ec2daff4691aad4396"
+    "revision": "577e054c55b3949f163276a235ba638f"
   },
   {
     "url": "guide/administration/visa-point-d-10.html",
-    "revision": "01ac52d99116dfd0e173eb3a721184a6"
+    "revision": "49512bcf3ac8e770f5a93b465f91d417"
   },
   {
     "url": "guide/administration/visa-point-f-2.html",
-    "revision": "1d5c6ece05846b642d92b32ee52cc6ab"
+    "revision": "2e7d16a5f26ab2545d6692953661b25e"
   },
   {
     "url": "guide/administration/working-with-d-2.html",
-    "revision": "f2aedd64b90cc10fd6d88a1bf7d6c9fc"
+    "revision": "63e580abf791bfdcfe7cdfd351474ab3"
   },
   {
     "url": "guide/culture/basic-korean-manners.html",
-    "revision": "82d69676fa69766c1c0544a91042f465"
+    "revision": "211234ece157d917cd8695a16634782d"
   },
   {
     "url": "guide/culture/formal-casual-speech.html",
-    "revision": "5abf07ebd54b6b0afa706c8e64d7d77f"
+    "revision": "51395d4089129590fd56b25190ddd013"
   },
   {
     "url": "guide/dailylife/free-call-mobile.html",
-    "revision": "2096e4b6d887847d22d3e6c2d6f42c53"
+    "revision": "ba39dfdb6df1fe12679a3ae4db2961c1"
   },
   {
     "url": "guide/dailylife/mobile-companies.html",
-    "revision": "656436c051f6a3c3c6f5d89857d653b1"
+    "revision": "643fdfc8da92eac28cc09cbf300e7e33"
   },
   {
     "url": "guide/education/top-universities-2019.html",
-    "revision": "42bd12e74557772be9872bc310e733bb"
+    "revision": "e020a33285c9eacb5610aeb93f779261"
   },
   {
     "url": "guide/finance/language-support-banks.html",
-    "revision": "2f0225b844790a615f8436182ea6bcd9"
+    "revision": "2c4de0bbfa50543add6969dd91635456"
   },
   {
     "url": "guide/finance/language-support-cards.html",
-    "revision": "bfe188d983b45ff38841d0e4c4a10530"
+    "revision": "252dc0ee603610e1f63cfd743199e70a"
   },
   {
     "url": "guide/general/2019-calendar.html",
-    "revision": "61d2aea8de5a33e83b596278aff948b6"
+    "revision": "6bd6df0f6a40160db93f7a7258291edb"
   },
   {
     "url": "guide/general/2020-calendar.html",
-    "revision": "a15cda5471210d879a25b1bcaed10e83"
+    "revision": "f66a68bbb48425fcf587ef1f7dd55dc6"
   },
   {
     "url": "guide/general/basic-words.html",
-    "revision": "f6119757109e93b240417ec03399cee6"
+    "revision": "a749c7673f972fcfea9677a0b9e3d7c3"
   },
   {
     "url": "guide/health/mandatory-nhis.html",
-    "revision": "03300b93592f6b81b74f6c03a2b689e4"
+    "revision": "bed7899a668846cdf8acd2431530d2f5"
   },
   {
     "url": "guide/index.html",
-    "revision": "233c1f6f73a4bae345486cb538c33a31"
+    "revision": "a7f0721835bdfe9e6c89f8700674064b"
   },
   {
     "url": "icon.png",
@@ -407,7 +407,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3408b4cc2b8147af026e629e263444eb"
+    "revision": "6d822a2cdf8e90083562ece0c1f68c0b"
   },
   {
     "url": "logo.png",
