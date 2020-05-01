@@ -31,7 +31,9 @@ module.exports = {
       title: 'Finance',
       children: [
         '/guide/finance/language-support-banks',
-        '/guide/finance/language-support-cards'
+        '/guide/finance/language-support-cards',
+        '/guide/finance/issue-digital-certificate',
+        '/guide/finance/residence-tax'
       ]
     },
     {
@@ -52,16 +54,38 @@ module.exports = {
     {
       title: 'Health',
       children: [
-        '/guide/health/mandatory-nhis'
+        '/guide/health/mandatory-nhis',
+        '/guide/health/emergency-numbers',
+        '/guide/health/nhi-contact',
+        '/guide/health/nhis-coverage-update',
+        '/guide/health/private-insurance-companies',
+        '/guide/health/english-support-hospitals',
+        '/guide/health/pharmacies-search'
       ]
     },
     {
       title: 'Work & Business',
-      children: []
+      children: [
+        '/guide/workbusiness/52-weekly-hours',
+        '/guide/workbusiness/work-titles',
+        '/guide/workbusiness/anti-bribery-law',
+        '/guide/workbusiness/revision-hiring-law-2019'
+      ]
     },
     {
       title: 'Transportation',
-      children: []
+      children: [
+        '/guide/transportation/book-bus-tickets',
+        '/guide/transportation/public-kickboard',
+        '/guide/transportation/update-taxi-price',
+        '/guide/transportation/designated-driver',
+        '/guide/transportation/public-transportation-websites',
+        '/guide/transportation/car-insurance-contact',
+        '/guide/transportation/exchange-license-process',
+        '/guide/transportation/hi-pass-card',
+        '/guide/transportation/transportation-card',
+        '/guide/transportation/english-driving-school'
+      ]
     },
     {
       title: 'Culture',
