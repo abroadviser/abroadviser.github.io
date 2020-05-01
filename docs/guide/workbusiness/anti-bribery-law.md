@@ -18,7 +18,7 @@ However, a company can show it had no connection to the gift by providing eviden
 
 Now that you know about this act, be conscious about the gifts you give and get, especially when working with government officials.
 
-You can see more detailed explanation in [this video]()
+You can see more detailed explanation in [this video](https://youtu.be/Hp7eMVpb7K4)
 
 ::: tip NOTE
 There is no official document of the law in English,

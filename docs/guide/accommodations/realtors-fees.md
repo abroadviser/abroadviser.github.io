@@ -1,7 +1,6 @@
 # Realtors Fees - Real Estate Agencies 
 
-<youtube src="https://www.youtube.com/embed/jh1dX92AZbo" />
-@@Video
+<youtube src="https://youtu.be/g8M-Y1ECSnI" />
 
 When you are using a Re agency services to find your house, whether you renting, having Jeonse or buying a house, you will have your service fees.
 
