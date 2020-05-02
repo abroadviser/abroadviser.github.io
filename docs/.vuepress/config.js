@@ -34,6 +34,7 @@ module.exports = {
     ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }],
     ['sitemap', { hostname: 'https://www.abroadviser.com' }],
     ['seo'],
-    ['disqus']
+    ['disqus'],
+    ["vuepress-plugin-google-adsense", { ad_client: "ca-pub-6448309593914506" }]
   ]
 }
