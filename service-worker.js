@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f7748e5578cc6b218a27c0553e3a3055"
+    "revision": "e80d965eb1b6268c682b47c5b3a3ea54"
   },
   {
     "url": "assets/css/0.styles.79041ca1.css",
@@ -458,204 +458,204 @@ self.__precacheManifest = [
     "revision": "a718956c2e5a69f0c38fe14fe8d4a8df"
   },
   {
-    "url": "assets/js/app.6e389d62.js",
-    "revision": "b038318d5ba77ae4283f843518b29c81"
+    "url": "assets/js/app.1f2e6658.js",
+    "revision": "8b96d0a38a2763010eab57c480d5928e"
   },
   {
     "url": "guide/accommodations/jeonse-loan.html",
-    "revision": "0e17eeb9de81ed9a54e6e4ee935077f2"
+    "revision": "5feb2ad2093c7b0da615addcfc3ed6f8"
   },
   {
     "url": "guide/accommodations/moving-cleaning-companies.html",
-    "revision": "beba8014339a0ed663474255c66b5118"
+    "revision": "e0b671f7cdeb12bc157b65de28eb4f77"
   },
   {
     "url": "guide/accommodations/moving-services-platform.html",
-    "revision": "60b8889a726b227ec29838c63562d621"
+    "revision": "b59eef1904072a374adddd90a511dcb2"
   },
   {
     "url": "guide/accommodations/realtors-english.html",
-    "revision": "4a5731ec9fee7d3d4f7bd571ecc88d0d"
+    "revision": "aebd9a2fd90d9bc193987add35cf851f"
   },
   {
     "url": "guide/accommodations/realtors-fees.html",
-    "revision": "3fef797bdd16010528cb2c9fcdbdd804"
+    "revision": "bb4d6a9a78b51c24c910dd5dbc220860"
   },
   {
     "url": "guide/accommodations/websites-to-find-house.html",
-    "revision": "2dfff9840453876f7d69acf352391b0e"
+    "revision": "abaa14433903c125bd3c887498cf9dd8"
   },
   {
     "url": "guide/administration/group-application-students.html",
-    "revision": "8f9f6d1c5efbba1b5518e0ced4426241"
+    "revision": "397c3f880a369ff33512ce9e69262854"
   },
   {
     "url": "guide/administration/kiip.html",
-    "revision": "7e26a83be1b5cbf26a043dbe7ceda11b"
+    "revision": "19a886d9fd9609bc0b27fc66fed55156"
   },
   {
     "url": "guide/administration/lost-arc.html",
-    "revision": "2bde85ce0b230e3af128f0c2986fd14c"
+    "revision": "e2d62a672342f03bc10d19d3bbd0c940"
   },
   {
     "url": "guide/administration/renewal-f-6.html",
-    "revision": "9620f2e0f5539ba025784ead67002aff"
+    "revision": "f1599369a7830e6ffc38e738f148e9cd"
   },
   {
     "url": "guide/administration/student-visa-d-2.html",
-    "revision": "d7e4b3997e0fb450c8a66891d690e398"
+    "revision": "58ed4c5abf040e9b165a7c9f8eda3d69"
   },
   {
     "url": "guide/administration/visa-numbers-links.html",
-    "revision": "ec51278d7902fa3ce3f513ba37b57605"
+    "revision": "f8d88fdee1d7f0d21f7f76e6a949b3c7"
   },
   {
     "url": "guide/administration/visa-point-d-10.html",
-    "revision": "88284167da5981330721cd3dc5343fbd"
+    "revision": "62d7fd8b4ee328c33cee1ef31e6a53b5"
   },
   {
     "url": "guide/administration/visa-point-f-2.html",
-    "revision": "492be659e2d677be889c0ee3564f6972"
+    "revision": "29ce92252a3f2c9d7455e3de1aecdf43"
   },
   {
     "url": "guide/administration/working-with-d-2.html",
-    "revision": "9b5fd2276456134f78aaa8ee6175561a"
+    "revision": "ab8c483c58dc41d33d994427f7b3d898"
   },
   {
     "url": "guide/culture/basic-korean-manners.html",
-    "revision": "47688d0f894b43f91bf29cd02667aa01"
+    "revision": "2c187d29a91285630328918e10e9cfd4"
   },
   {
     "url": "guide/culture/formal-casual-speech.html",
-    "revision": "33e78d60d933367de69b5abaca568167"
+    "revision": "c86eac3c7d181d294699a33197f9d228"
   },
   {
     "url": "guide/dailylife/free-call-mobile.html",
-    "revision": "5377c387af66793a26d2cc380d3e9478"
+    "revision": "ff4d1ad9d87fad27cf4f716db86302b1"
   },
   {
     "url": "guide/dailylife/mobile-companies.html",
-    "revision": "479db0c4334d8fd7068002cb2a54cd3b"
+    "revision": "e7bf95bcc1fb0160d216ae47cc6827af"
   },
   {
     "url": "guide/education/top-universities-2019.html",
-    "revision": "967349d3b1579c8bba1de50e2185f391"
+    "revision": "4caa4874e94094dc2503a0cacbb3e180"
   },
   {
     "url": "guide/finance/issue-digital-certificate.html",
-    "revision": "025bbebe45749f84dac392a4397d537e"
+    "revision": "1e71fd1f7dc271a8fe248e5b414520e8"
   },
   {
     "url": "guide/finance/language-support-banks.html",
-    "revision": "6667888b5e25e814551bf47f126ccbf8"
+    "revision": "41cf47d37c2070c94a0154f0de995c8c"
   },
   {
     "url": "guide/finance/language-support-cards.html",
-    "revision": "8c2ded9c6202251f36cce17f00df5d96"
+    "revision": "7c603e32ce329dcaefcbf58264533dfa"
   },
   {
     "url": "guide/finance/residence-tax.html",
-    "revision": "d800673941f517732822c32d80037928"
+    "revision": "375e521ffe631f81ded1b4674a6ca3a3"
   },
   {
     "url": "guide/general/2019-calendar.html",
-    "revision": "fc6918de450ae1ef11b33538344d279d"
+    "revision": "29aca6c938dbf855aa20a5f246ad783b"
   },
   {
     "url": "guide/general/2020-calendar.html",
-    "revision": "e085e0c27a5843fd1b3ef477049e9fa9"
+    "revision": "d2c5b3908a6131de4288f5ed9cd6fae4"
   },
   {
     "url": "guide/general/basic-words.html",
-    "revision": "0d63f401684b8918b989e826df807268"
+    "revision": "4f76e6e559af9a7f8cda54f9954e3dbb"
   },
   {
     "url": "guide/health/emergency-numbers.html",
-    "revision": "1dfc485986c2341886292d3c4c731862"
+    "revision": "12062341a734f090bc9181a5baee5ffd"
   },
   {
     "url": "guide/health/english-support-hospitals.html",
-    "revision": "24c8e101d4cfa0a568d77c36352f353d"
+    "revision": "b72630a72f6cf2769e72333ce7931802"
   },
   {
     "url": "guide/health/mandatory-nhis.html",
-    "revision": "9693258c8ffd3253f661405433bdceab"
+    "revision": "1169b4dabc7341a6d5cb2426b583ffbf"
   },
   {
     "url": "guide/health/nhi-contact.html",
-    "revision": "5de6eb8c3a7f85b04f4c3bc765538e84"
+    "revision": "7e74b85c2a9d755b33539dc573c669cd"
   },
   {
     "url": "guide/health/nhis-coverage-update.html",
-    "revision": "3b88c47df00d21132450627cd12281cb"
+    "revision": "4e11906e69032c8cbb25d2ab621b7785"
   },
   {
     "url": "guide/health/pharmacies-search.html",
-    "revision": "fd66a2ef3ce6b70a1b5b2588aa9649a1"
+    "revision": "d056a6007b8eeb7aad22a8d1bab0f4bb"
   },
   {
     "url": "guide/health/private-insurance-companies.html",
-    "revision": "6221de86e441616127ac142e030a62ce"
+    "revision": "09656c36bd2e9b5c630677a70353f9bf"
   },
   {
     "url": "guide/index.html",
-    "revision": "42473f5d9b51c743357fc596e9172cad"
+    "revision": "a2d20b622e8007d26cf926dd6f95f56b"
   },
   {
     "url": "guide/transportation/book-bus-tickets.html",
-    "revision": "5f53881fc19c069c3d501e4890e27c79"
+    "revision": "33e94fdc6c4007a77b47fb2621920c9a"
   },
   {
     "url": "guide/transportation/car-insurance-contact.html",
-    "revision": "af93dfaca2ae85a7775ade104dd5056c"
+    "revision": "dafeda855f7234adbc5735f52f623c32"
   },
   {
     "url": "guide/transportation/designated-driver.html",
-    "revision": "f776b4709a038ab9e884d3e87e6022aa"
+    "revision": "f7678d5533226e3904f2b9860900b88b"
   },
   {
     "url": "guide/transportation/english-driving-school.html",
-    "revision": "7bcee3a71fe67293f6556633333f6eba"
+    "revision": "5e1a2b41b2f71d49a3a43188870c22cc"
   },
   {
     "url": "guide/transportation/exchange-license-process.html",
-    "revision": "6cd408e0fb50be4e52730b0814e552b3"
+    "revision": "2711a1aaf58ff87df844924662677ad1"
   },
   {
     "url": "guide/transportation/hi-pass-card.html",
-    "revision": "223f4cc8991c736c584f35841d1791a1"
+    "revision": "07d243e55fe97e38254e40a899eeb4a0"
   },
   {
     "url": "guide/transportation/public-kickboard.html",
-    "revision": "ffe6b88e6fbb8c945f42a07ae0d17351"
+    "revision": "85ee05d3fcde0343c599da0bd4bbeb7d"
   },
   {
     "url": "guide/transportation/public-transportation-websites.html",
-    "revision": "77e028958831bf564604666849d26208"
+    "revision": "3bc776ccaf03f9b8460cfd35dd12713e"
   },
   {
     "url": "guide/transportation/transportation-card.html",
-    "revision": "9d68596706b656011b6cfacd939df6ee"
+    "revision": "072afb709bc0066670ebb4af275134ce"
   },
   {
     "url": "guide/transportation/update-taxi-price.html",
-    "revision": "b0bac9e64aef0ffdfc704c6f01ddf7be"
+    "revision": "27f01c3b3d365c305a23dfe43288bc89"
   },
   {
     "url": "guide/workbusiness/52-weekly-hours.html",
-    "revision": "915ac32cd22507b66b4f543036364b1f"
+    "revision": "5b151b2527b7e4c4910c2b1bf4882485"
   },
   {
     "url": "guide/workbusiness/anti-bribery-law.html",
-    "revision": "9d5efe413fbf6bb9a6d02a2825310d56"
+    "revision": "7dcf242b9a973e1120abdf41c5f8ea18"
   },
   {
     "url": "guide/workbusiness/revision-hiring-law-2019.html",
-    "revision": "7bf5f0dff7f3b5ce4600e642dbc0ae9b"
+    "revision": "6ad04dfa261c9ff4cce4aabf9b437fd9"
   },
   {
     "url": "guide/workbusiness/work-titles.html",
-    "revision": "506f503a0a58b3195bb048cb34b7c5a7"
+    "revision": "8bf49d804c1ffa1a73cf7d36c067b8bd"
   },
   {
     "url": "icon.png",
@@ -743,7 +743,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1dc355880a7690fd6187bed2cd83bfff"
+    "revision": "f6b286bb20e56429534220f0d7c6266b"
   },
   {
     "url": "logo.png",
