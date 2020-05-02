@@ -2,7 +2,7 @@ const sidebar = require('./sidebar')
 
 module.exports = {
   title: 'ABROADVISER',
-  description: 'easy life in a foreign country',
+  description: 'Your guide to life in Korea',
   themeConfig: {
     logo: '/icons/icon-32x32.png',
     nav: [
