@@ -1,6 +1,6 @@
-# Realtors Fees - Real Estate Agencies 
+# Realtors Fees - Real Estate Agencies
 
-<youtube src="https://youtu.be/g8M-Y1ECSnI" />
+<youtube src="https://www.youtube.com/embed/g8M-Y1ECSnI" />
 
 When you are using a Re agency services to find your house, whether you renting, having Jeonse or buying a house, you will have your service fees.
 
@@ -10,7 +10,7 @@ Since not all people aware of the price and they way to calculate it, we have pr
 Also, you can follow the below table to see the range you should pay.
 
 | Rent/ Buy Price * | Commission | Notes |
-| - | - | - | 
+| - | - | - |
 | Below 50M Won | 0.50% | ~ 250,000 Won | 50M- 100M Won | 0.40% | ~500,000 Won |
 | 101M- 300M Won | 0.30% | No specific maximum |
 | 301M- 600M Won | 0.40% | No specific maximum |
