@@ -11,5 +11,5 @@ features:
 - title: Articles
   details: Here we have articles about life in Korea, updates, and step by step "how to" explanations.
 
-footer: Copyright 2020. Abroadviser, Inc. all rights reserved. Contact us, biz@abroadviser.com
+footer: Copyright 2020. Abroadviser, Inc. all rights reserved. Contact us, abroadviser@gmail.com
 ---

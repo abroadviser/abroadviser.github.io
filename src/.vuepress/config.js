@@ -25,7 +25,7 @@ module.exports = {
     ['meta', { name: 'naver-site-verification', content: '9f6fd9374b76e620a5d27ecde3ad0ce5ff285294' }],
     ['meta', { name: 'google-site-verification', content: '_foyyoJ5pPvEdoIZjTVELtmkAh8b0pZ83LXTC4zfHXw' }]
   ],
-  dest: 'dist',
+  dest: 'docs',
   extraWatchFiles: ['.vuepress/sidebar.js'],
   plugins: [
     ['@vuepress/back-to-top'],
