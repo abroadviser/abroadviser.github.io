@@ -4,8 +4,8 @@
   "description": "wiki vuepress",
   "author": "jake.kim <jake.kim@abroadviser.com>",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.1",
