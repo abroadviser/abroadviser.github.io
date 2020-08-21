@@ -32,7 +32,7 @@ module.exports = {
     ['@vuepress/plugin-medium-zoom'],
     ['@vuepress/google-analytics', { 'ga': 'UA-144184493-1' }],
     ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }],
-    ['sitemap', { hostname: 'https://www.abroadviser.com' }],
+    ['sitemap', { hostname: 'https://abroadviser.github.io' }],
     ['seo'],
     ['disqus'],
     ["vuepress-plugin-google-adsense", { ad_client: "ca-pub-6448309593914506" }]
